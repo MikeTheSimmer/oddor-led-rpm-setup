@@ -2,6 +2,12 @@
 
 G'day! Welcome to the setup guide for your **SimHub LED RPM setup** for racing games. Just follow the steps below and you'll be up and running in no time.
 
+You can either watch our quick video tutorial below or follow the step-by-step instructions in this guide to get started.
+
+🎬 **Quick Video Setup Guide**  
+_ODDOR SimRacing Game LED Display RPM Tachometer Quick Setup Guide_
+[![Watch the video](https://img.youtube.com/vi/10cDQuLd4Ck/hqdefault.jpg)](https://youtu.be/10cDQuLd4Ck)
+
 ---
 
 ## 🛠️ Setup Steps
@@ -72,7 +78,11 @@ Strap in, hit the throttle, and enjoy the sim racing experience.
 Got questions or ran into a snag?  
 Feel free to reach out to **Mike**, or join our Discord channel for support.
 
+Looking for a more in-depth tutorial?  
+📖 Check out the official ODDOR guide on YouTube:
+👉 [ODDOR Manufacturer’s Full Tutorial](https://www.youtube.com/watch?v=cbGOgg3QetU)
+
 ---
 
 Cheers,  
-_The Flight Simulator Australia Crew_
+_Mike_
